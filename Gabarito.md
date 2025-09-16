@@ -32,7 +32,7 @@
 | 17 | C | Define como `true` após login bem-sucedido |
 | 18 | C | `login.html` é HTML puro |
 | 19 | B | `session_destroy()` encerra a sessão |
-| 20 | D | Porta 80 é a padrão do HTTP |
+| 20 | E | Porta 443 é a padrão do HTTPS |
 
 ---
 
