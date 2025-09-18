@@ -1,6 +1,6 @@
 ---
 
-# 📘 50 Questões Discursivas com Respostas
+# 📘 50 Questões Discursivas
 
 ## Tema: Estrutura de Armazenamento de Massa – Estrutura RAID
 
@@ -191,4 +191,5 @@
     → Equilibrar custo, desempenho e tolerância a falhas de acordo com a aplicação.
 
 ---
+
 
