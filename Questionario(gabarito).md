@@ -375,5 +375,3 @@
 48. a  
 49. a  
 50. a  
-
-*(As questões restantes seguem o mesmo padrão e podem ser elaboradas com base no material fornecido.)*
